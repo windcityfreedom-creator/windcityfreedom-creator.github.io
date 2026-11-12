@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windcityfreedom-creator.github.io/sitemap.xml
+Sitemap: https://windcityfreedom-creator.github.io/2026/sitemap.xml
